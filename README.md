@@ -25,7 +25,7 @@
 
 ### 言語
 
-Ruby | Java | JavaScript | Dart | R | Pascal |
+Ruby | Java | Python | JavaScript | Dart | R | Pascal |
 
 ### フレームワーク等
 
