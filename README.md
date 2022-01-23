@@ -29,7 +29,7 @@ Ruby | Java | Python | JavaScript | Dart | R | Pascal |
 
 ### フレームワーク等
 
-Ruby on Rails | Spring | jQuery | Vue.js | Flutter | Firebase |
+Ruby on Rails | Spring | jQuery | React | Vue.js | Nuxt.js | Flutter | Firebase |
 
 ### RDB/NoSQL
 
