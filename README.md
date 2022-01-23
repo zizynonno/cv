@@ -33,7 +33,7 @@ Ruby on Rails | Spring | jQuery | Vue.js | Flutter | Firebase |
 
 ### RDB/NoSQL
 
-MySQL | PostgreSQL | SQLite3 |
+MySQL | PostgreSQL | SQLite3 | Redis
 
 ### クラウド
 
