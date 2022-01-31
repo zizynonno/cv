@@ -39,7 +39,7 @@ MySQL | PostgreSQL | SQLite3 | Redis |
 
 #### AWS
 
-VPC | S3 | API Gateway | ELB | EC2 | ECS | Route53 | IAM | RDS(MySQL|PostgreSQL) |　
+VPC | S3 | API Gateway | ELB | EC2 | ECS | Route53 | IAM | RDS(MySQL|PostgreSQL) |
 
 ### SaaS/PaaS
 
