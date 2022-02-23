@@ -6,7 +6,7 @@
 |----|----|
 |名前|じーの|
 |拠点|東京|
-|Twitter|[@zizynonno](https://twitter.com/zizynonno)|
+|Twitter|[@zizynonno](https://twitter.com/zizynonno)| 
 |Qiita|[@zizynonno](https://qiita.com/zizynonno)|
 
 ## 概要
