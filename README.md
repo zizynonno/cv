@@ -63,7 +63,7 @@ Docker | nginx | unicorn | Apache | Tomcat | SASS | Heroku |
 
 ## 主な業務経歴
 
-### YouTuber支援プラットフォーム、社内システムの開発【Rails/JavaScript/MySQL/Redis/AWS/HTML/CSS】(2020年~)
+### YouTuber支援プラットフォーム、社内システムの開発【Ruby/Rails/JavaScript/MySQL/Redis/AWS/HTML/CSS】(2020年~)
 
 【プロジェクト概要】YouTuber支援プラットフォーム、社内システムの開発を担当
 
