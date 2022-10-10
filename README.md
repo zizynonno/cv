@@ -47,7 +47,7 @@ GitHub | CircleCI |
 
 ### その他
 
-Docker | nginx | unicorn | Apache | Tomcat | SASS | Heroku |
+Docker | nginx | unicorn | Apache | Tomcat | SASS | Heroku |　ElasticSearch(OpenSearch)　｜
  
 ## 経験(業務・独学問わず)
 
@@ -60,6 +60,7 @@ Docker | nginx | unicorn | Apache | Tomcat | SASS | Heroku |
 - テスト駆動開発
 - 新規サービスの開発
 - フロントエンド開発
+- 採用
 
 ## 主な業務経歴
 
